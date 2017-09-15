@@ -8,7 +8,7 @@
  */
 import java.util.Scanner;
 
-public class assignment3 {
+public class Assignment3 {
     public static void main(String[] args) {
         int width = (int)((Math.random() * (50 + 50)) -50);
         int height = (int)((Math.random() * (100 + 100)) -100);
